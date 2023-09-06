@@ -1,0 +1,29 @@
+ass1.cpp output:
+
+Fundamentals of C++ added to Library
+Red Riding Hood added to Library
+Ulysses added to Library
+Don Quixote added to Library
+In Search of Lost Time added to Library
+The Odyssey added to Library
+Removing Books: 
+Chem does not exist
+Titanic does not exist
+Can this book be added?: 
+Ulysses already exists
+In Search of Lost Time already exists
+Is this book in the library?: 
+Chem is not in the library
+Red Riding Hood is in the library
+Is there space to add this?: 
+Goldilocks and the Three Bears added to Library
+Yes, there is space for this book
+Can this book be taken out?: 
+Yes, this book can be removed
+Books in Library: 
+Fundamentals of C++
+Ulysses
+Don Quixote
+In Search of Lost Time
+The Odyssey
+Goldilocks and the Three Bears
